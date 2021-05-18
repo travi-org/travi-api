@@ -91,7 +91,7 @@
     "hapi-graceful-shutdown-plugin": "1.0.1",
     "hapi-mustache": "0.0.1",
     "hapi-swaggered": "2.12.2",
-    "hapi-swaggered-ui": "2.6.2",
+    "hapi-swaggered-ui": "3.0.0",
     "http-status-codes": "1.4.0",
     "inert": "4.2.1",
     "joi": "14.3.1",
