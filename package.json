@@ -94,7 +94,7 @@
     "hapi-swaggered-ui": "2.6.2",
     "http-status-codes": "1.4.0",
     "inert": "4.2.1",
-    "joi": "14.3.1",
+    "joi": "17.4.1",
     "lodash": "4.17.21",
     "md5": "2.3.0",
     "newrelic": "7.5.2",
