@@ -88,7 +88,7 @@
     "halacious": "5.1.2",
     "hapi": "16.7.0",
     "hapi-auth-cookie": "7.1.0",
-    "hapi-graceful-shutdown-plugin": "1.0.1",
+    "hapi-graceful-shutdown-plugin": "2.0.8",
     "hapi-mustache": "0.0.1",
     "hapi-swaggered": "2.12.2",
     "hapi-swaggered-ui": "2.6.2",
